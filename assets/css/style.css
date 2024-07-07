@@ -1,0 +1,34 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.header {
+  padding: 6em;
+  font-size: 2em;
+  background-image: url("../imgs/1.jpg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.header h1 {
+  margin: 0px;
+}
+.products {
+  width: 80%;
+  margin: auto;
+}
+.products td {
+  width: 50%;
+  padding: 2em;
+}
+.products img {
+  width: 100%;
+  border: solid 1px darkgrey;
+}
+.footer {
+  height: 3em;
+  line-height: 3em;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-weight: 900;
+}
